@@ -1,4 +1,6 @@
-var torreT1= document.queryselector(#torreT1);
 
+var torreT1= document.querySelector("#torreT1")
 
-torreT1.addeventlistener("click". document.url=torreT1.html);
+torreT1.addEventListener("click", function(){
+  
+  });
