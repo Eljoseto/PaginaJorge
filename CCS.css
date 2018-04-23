@@ -9,4 +9,4 @@ body { padding-top: 70px;
 
  label {color: white}
 
- .descripcion  h3 {color: white}
+ .descripcion { padding-top: 10px; color: white; font-size:20px}
